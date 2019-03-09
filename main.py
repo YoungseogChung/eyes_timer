@@ -20,7 +20,7 @@ def main():
         popupmsg('Starting another session')
         time.sleep(60*20)
         popupmsg('Save them eyes bruv')
-        time.slee(20)
+        time.sleep(20)
 
 if __name__ == '__main__':
     main()
